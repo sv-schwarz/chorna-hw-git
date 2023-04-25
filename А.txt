@@ -1,4 +1,9 @@
 Test file
+<<<<<<< HEAD
 Line from develop branch    
 Test file
+=======
+Line from feature branch
+Some additional changes from remote
+>>>>>>> feature_home-task
 Test file
